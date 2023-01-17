@@ -14,7 +14,6 @@
 }
 
 .bg-img {
-  background-image: url('../public/bg-ticket.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
